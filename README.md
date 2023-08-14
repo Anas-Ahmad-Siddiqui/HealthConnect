@@ -94,7 +94,3 @@ This system aims to streamline the appointment booking process, enhance doctor-p
 
 * @RBiswa787
 * @Anas-Ahmad-Siddiqui
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
